@@ -1,5 +1,4 @@
 <div align="center">
-
 # 👋 Hi there, I'm **Youssef Emad Kamel**
 </div>
 
@@ -7,7 +6,6 @@
 ## 👨‍💻 About Me
 
 I'm a passionate **Front-End Developer** with a love for creating beautiful, responsive, and user-friendly web applications.
-
 My journey in web development started with curiosity and has grown into a dedication to building modern digital experiences. I enjoy learning new technologies, contributing to open-source projects, and turning ideas into clean, high-quality interfaces.
 
 # 💻 Tech Stack
