@@ -1,12 +1,9 @@
 <div align="center">
 
 # 👋 Hi there, I'm **Youssef Emad Kamel**
-
-### Front-End Developer
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Front-End Developer** with a love for creating beautiful, responsive, and user-friendly web applications.
