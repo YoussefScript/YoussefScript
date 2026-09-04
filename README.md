@@ -1,17 +1,20 @@
 <div align="center">
 
 # 👋 Hi, I'm **Youssef Emad Kamel**
-### **Front-End Developer**
+### **Full-Stack Developer**
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Developer** with a love for creating beautiful, responsive, and user-friendly web applications.  
+My journey in web development started with curiosity and has grown into a dedication to building modern digital experiences. I enjoy learning new technologies, contributing to open-source projects, and turning ideas into clean, high-quality interfaces.  
 
 *Crafting modern, responsive, and performance-focused digital experiences.*
 
 ---
-
-</div>
-
-## 👨‍💻 About Me
-I'm a passionate **Front-End Developer** with a love for creating beautiful, responsive, and user-friendly web applications.
-My journey in web development started with curiosity and has grown into a dedication to building modern digital experiences. I enjoy learning new technologies, contributing to open-source projects, and turning ideas into clean, high-quality interfaces.
 
 # 💻 Tech Stack
 
@@ -41,6 +44,13 @@ My journey in web development started with curiosity and has grown into a dedica
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Testing
+![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-FF6A00?style=for-the-badge&logo=mockserviceworker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![axe-core](https://img.shields.io/badge/axe--core-00C0F3?style=for-the-badge)
 
 ### Auth, Validation & Tools
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
