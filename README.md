@@ -45,13 +45,6 @@ My journey in web development started with curiosity and has grown into a dedica
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Testing
-![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![MSW](https://img.shields.io/badge/MSW-FF6A00?style=for-the-badge&logo=mockserviceworker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-![axe-core](https://img.shields.io/badge/axe--core-00C0F3?style=for-the-badge)
-
 ### Auth, Validation & Tools
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge)
