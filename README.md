@@ -59,6 +59,9 @@ My journey in web development started with curiosity and has grown into a dedica
 # 🌐 Connect With Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/youssefemadkamel/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://youssef-script-dev.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
